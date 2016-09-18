@@ -18,9 +18,6 @@
     "url": "git://github.com/j201/windows-shortcuts.git"
   },
   "homepage": "http://github.com/j201/windows-shortcuts",
-  "os": [
-    "win32"
-  ],
   "devDependencies": {
     "signal-exit": "^2.1.2",
     "tape": "^4.4.0",
